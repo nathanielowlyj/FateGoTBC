@@ -1,5 +1,3 @@
-// Nathaniel Low P2323428 DIT/FT/1B/05
-
 const pool = require("../services/db.js");
 
 const bcrypt = require("bcrypt");

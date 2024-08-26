@@ -1,5 +1,3 @@
-// Nathaniel Low P2323428 DIT/FT/1B/05
-
 const model = require("../models/messageModel.js");
 
 module.exports.createMessage = (req, res, next) => {
