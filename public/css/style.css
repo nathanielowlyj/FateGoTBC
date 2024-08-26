@@ -1,0 +1,41 @@
+body
+{
+    font-family: sans-serif;
+    background-image:url(../images/background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+main
+{
+    min-height: calc(100vh - 56px - 56px);
+}
+
+#loginText
+{
+    background-color: azure;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#questMenu 
+{
+    background-color:#1e8bac;
+    border-radius: 20px;
+}
+
+#bossFight
+{
+    background-color:#1e8bac;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+#bossFightText 
+{
+    text-decoration: none;
+    font-size: 2em;
+    color: black;
+}
